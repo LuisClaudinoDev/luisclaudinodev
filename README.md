@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m Luís, a game programmer based in Portugal.<br><br>I´m a video gamer lover, which at some point, I started learning how to make them.<br><br>I use Unity, Unreal Engine using Blueprints!
+I´m Luís, a game programmer based in Portugal.<br><br>I´m a video gamer lover, which at some point, I started learning how to make them.<br><br>I use Unitya and Unreal Engine. Currently learning C++
 
 
 # 💻 Tech Stack:
